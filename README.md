@@ -2,6 +2,8 @@ Catch the Ball Game
 
 A simple and fun browser-based game where players move a paddle to catch a falling ball. Perfect for learning or showcasing HTML5 Canvas, CSS, and JavaScript!
 
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
+
 How to Play
 
 Use the left and right arrow keys to move the paddle.
